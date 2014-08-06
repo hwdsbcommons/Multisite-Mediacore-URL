@@ -27,7 +27,7 @@ class HWDSB_mcore_URL {
 	 * Returns VP license key
 	 */
 	public function get_mc_key($mcore_url) {
-		$mcore_url = 'https://tv.hwdsb.on.ca';
+		$mcore_url = 'replace_with_your_URL_here';
 		return $mcore_url;
 	}
 }
